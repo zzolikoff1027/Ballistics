@@ -412,7 +412,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: e855ffff1259ffff205affffcc5bffff10b5ffffceb6ffff44c7ffff6acaffffc2caffffa4e8ffff34eaffffc8eaffffc0ebffff0eecffff12f2ffff66f2ffff56f8ffffaaf8ffff10fbffff
+      m_ExpandedIDs: 22dfffff72dfffffaee0ffff28fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -903,23 +903,23 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scenes
     m_Globs: []
     m_OriginalText: 
     m_ImportLogFlags: 0
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/Scenes
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\zacsz\OneDrive\Desktop\Projects\Ballistics\Ballistics
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 605b0000
-    m_LastClickedID: 23392
-    m_ExpandedIDs: 00000000605b000000ca9a3b
+    m_SelectedIDs: 825b0000
+    m_LastClickedID: 23426
+    m_ExpandedIDs: 00000000765b000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -947,7 +947,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 
+    m_ExpandedIDs: 00000000765b0000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
